@@ -34,3 +34,5 @@ nicole &amp; phi project
     * Change linked identifier (i.e. email, phone number) 
     * Logout 
     * Delete account
+    * Cuisine preferences/ likes + dislikes 
+    * Allergies + avoid ingredients 
