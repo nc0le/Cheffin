@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Cheffin",
+    "slug": "Cheffin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/cheffinlogo.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/Logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FCF9EA",
+      "fullScreen": true
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/Logo.pngg",
+        "backgroundColor": "#FCF9EA"
+      }
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/Logo.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
